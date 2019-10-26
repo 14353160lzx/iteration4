@@ -1,0 +1,30 @@
+[I 03:58:42.741 NotebookApp] Serving notebooks from local directory: /home/ubuntu/iteration4/iteration4
+[I 03:58:42.741 NotebookApp] 0 active kernels
+[I 03:58:42.741 NotebookApp] The Jupyter Notebook is running at:
+[I 03:58:42.741 NotebookApp] https://ip-172-31-39-31:8888/?token=190bb05be84d9593bf29b734d939729cc8bde18a66e2aa6b
+[I 03:58:42.741 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 03:58:42.742 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        https://ip-172-31-39-31:8888/?token=190bb05be84d9593bf29b734d939729cc8bde18a66e2aa6b&token=190bb05be84d9593bf29b734d939729cc8bde18a66e2aa6b
+[W 03:58:43.284 NotebookApp] SSL Error on 9 ('202.36.244.4', 36074): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:645)
+[W 03:58:43.978 NotebookApp] 404 GET /api/kernels/b47de82a-711d-4bae-bf4a-370de36720ea/channels?session_id=2e111da1fca8422d889034a64832e10b (202.36.244.4): Kernel does not exist: b47de82a-711d-4bae-bf4a-370de36720ea
+[W 03:58:44.021 NotebookApp] 404 GET /api/kernels/b47de82a-711d-4bae-bf4a-370de36720ea/channels?session_id=2e111da1fca8422d889034a64832e10b (202.36.244.4) 50.07ms referer=None
+[W 03:58:48.859 NotebookApp] SSL Error on 9 ('202.36.244.4', 47118): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:645)
+[W 03:58:49.528 NotebookApp] Replacing stale connection: b47de82a-711d-4bae-bf4a-370de36720ea:2e111da1fca8422d889034a64832e10b
+[W 03:58:57.316 NotebookApp] SSL Error on 10 ('202.36.244.4', 41101): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:645)
+[W 03:58:57.316 NotebookApp] SSL Error on 11 ('202.36.244.4', 50827): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:645)
+[W 03:58:59.195 NotebookApp] SSL Error on 9 ('202.36.244.4', 46650): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:645)
+[W 03:58:59.200 NotebookApp] SSL Error on 11 ('202.36.244.4', 38022): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:645)
+[W 03:58:59.205 NotebookApp] SSL Error on 12 ('202.36.244.4', 33286): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:645)
+[W 03:58:59.216 NotebookApp] SSL Error on 13 ('202.36.244.4', 52550): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:645)
+[W 03:58:59.217 NotebookApp] SSL Error on 14 ('202.36.244.4', 36444): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:645)
+[W 03:58:59.641 NotebookApp] SSL Error on 9 ('202.36.244.4', 46861): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:645)
+[W 03:58:59.643 NotebookApp] SSL Error on 12 ('202.36.244.4', 57293): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:645)
+[W 03:59:03.101 NotebookApp] Notebook Iteration4.ipynb is not trusted
+[W 03:59:03.274 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20191022035842 (202.36.244.4) 3.33ms referer=https://3.80.250.82:8888/notebooks/Iteration4.ipynb
+[I 03:59:04.279 NotebookApp] Kernel started: 94511512-5fc8-46b7-a235-f287bbda0a81
+[W 03:59:04.930 NotebookApp] SSL Error on 28 ('202.36.244.4', 64454): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:645)
+[I 03:59:05.606 NotebookApp] Adapting to protocol v5.1 for kernel 94511512-5fc8-46b7-a235-f287bbda0a81
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
